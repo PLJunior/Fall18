@@ -46,6 +46,8 @@ The following is *optional*:
 
 + A bunch of resources on good pedagogical presentations of CPS: http://lists.seas.upenn.edu/pipermail/types-list/2018/002000.html
 
++ Essentials of Programming Languages, Chapter 6
+
 ### Sept 24 (ICFP week)
 
 Topic: **ANF/continuations** (Michael to confirm)  
