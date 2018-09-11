@@ -9,9 +9,9 @@ PL Junior is a tradition of Northeastern's Programming Research Laboratory since
 
 ### Sept 17
 
-Topic: **Intro to CPS**  
-Guest lecturer: William Bowmen  
-Outline:  
+**Topic**: Intro to CPS  
+**Guest lecturer**: William Bowmen  
+**Outline of the lecture**:  
 1. What is CPS?
    Continuation-Passing style, and transformations from direct style in CPS.
 2. Why CPS?
