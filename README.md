@@ -46,7 +46,7 @@ The following is *optional*:
 
 + A bunch of resources on good pedagogical presentations of CPS: http://lists.seas.upenn.edu/pipermail/types-list/2018/002000.html
 
-###Sept 24 (ICFP week)
+### Sept 24 (ICFP week)
 
 Topic: **ANF/continuations** (Michael to confirm)  
 Papers to read:  
@@ -54,27 +54,27 @@ Papers to read:
 + Compiling without Continuations https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf
 + More?
 
-###Oct 1
+### Oct 1
 
-###Oct 8 (Columbus Day)
+### Oct 8 (Columbus Day)
 
-###Oct 15
+### Oct 15
 
-###Oct 22
+### Oct 22
 
-###Oct 29
+### Oct 29
 
-###Nov 5 (SPLASH week)
+### Nov 5 (SPLASH week)
 
-###Nov 12 (Veteran's Day?)
+### Nov 12 (Veteran's Day?)
 
-###Nov 19 (Thanksgiving week?)
+### Nov 19 (Thanksgiving week?)
 
-###Nov 26 (Monday after Thanksgiving)
+### Nov 26 (Monday after Thanksgiving)
 
-###Dec 3
+### Dec 3
 
-###Dec 10 (last week of classes)  
+### Dec 10 (last week of classes)  
 
 
 
