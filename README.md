@@ -3,6 +3,7 @@
 PL Junior is a tradition of Northeastern's Programming Research Laboratory since ????. It is a weekly meeting of mostly first and second year phd students studying and discussing a variety of topics in programming languages research. However, anyone interested in learning PL topics is welcome.
 
 ## Participants
++ Artem Pelenitsyn
 
 
 ## Schedule
