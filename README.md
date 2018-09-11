@@ -105,7 +105,7 @@ Certified Programming with Dependent Types
 OPLSS  
 DeepSpec  
 
-**#Reading papers / textbooks**
+**Reading papers / textbooks**
 
 Compiling with Continuations / without Continuations  
 ANF  
