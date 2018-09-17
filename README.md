@@ -52,10 +52,12 @@ The following is *optional*:
 ### Sept 24 (ICFP week)
 
 Topic: **ANF/continuations** (Michael to confirm)  
-Papers to read:  
+Papers to read for this week:  
 + The Essence of Compiling with Continuations https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
+
+Papers that will follow later in this series:
++ Compiling with Continuations, Continued https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf
 + Compiling without Continuations https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf
-+ More?
 
 ### Oct 1
 
