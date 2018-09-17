@@ -54,9 +54,9 @@ The following is *optional*:
 Topic: **ANF/continuations** (Michael to confirm)  
 Papers to read for this week:  
 + Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
-+ The Essence of Compiling with Continuations https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
 
 Papers that will follow later in this series:
++ The Essence of Compiling with Continuations https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
 + Compiling with Continuations, Continued https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf
 + Compiling without Continuations https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf
 
