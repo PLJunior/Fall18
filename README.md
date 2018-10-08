@@ -90,7 +90,7 @@ Papers:
  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress: Page 6 --10 (Before section 5)  
-Notes:
+Notes: https://github.com/PLJunior/Fall18/blob/master/notes-10-08.pdf
 
 
 
