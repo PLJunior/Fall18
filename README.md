@@ -51,7 +51,7 @@ The following is *optional*:
 
 ### Sept 24 (ICFP week)
 
-Topic: **ANF/continuations**
+Topic: **ANF/continuations**  
 Papers to read for this week:  
 + Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
