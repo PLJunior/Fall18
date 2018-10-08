@@ -90,7 +90,7 @@ Topic:
 Papers:
 +  
 
-Progress:
+Progress:  
 Notes:
 
 ### Oct 22
@@ -100,17 +100,17 @@ Topic:
 Papers:
 +  
 
-Progress:
+Progress:  
 Notes:
 
 ### Oct 29
 
 Lead:  
-Topic:  
-Papers:
+Topic:   
+Papers:  
 +  
 
-Progress:
+Progress:  
 Notes:
 
 
