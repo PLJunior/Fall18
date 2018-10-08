@@ -42,10 +42,11 @@ PL Junior is a tradition of Northeastern's Programming Research Laboratory since
 
 The following is *optional*:  
 + Papers to read:
-  - Gordon Plotkin. Call-by-name, call-by-value, and the λ-calculus. Theoretical Computer Science: 1975 http://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf
-    + Ben Greenman's summary of this paper: http://www.ccs.neu.edu/home/types/resources/notes/call-by-name-call-by-value/extended-intro.pdf
+  - Gordon Plotkin. Call-by-name, call-by-value, and the λ-calculus. Theoretical Computer Science: 1975  
+   http://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf
+    + Ben Greenman's summary of this paper:   http://www.ccs.neu.edu/home/types/resources/notes/call-by-name-call-by-value/extended-intro.pdf
 
-+ A bunch of resources on good pedagogical presentations of CPS: http://lists.seas.upenn.edu/pipermail/types-list/2018/002000.html
++ A bunch of resources on good pedagogical presentations of CPS:   http://lists.seas.upenn.edu/pipermail/types-list/2018/002000.html
 
 + Essentials of Programming Languages, Chapter 6
 
@@ -53,22 +54,22 @@ The following is *optional*:
 
 Topic: **ANF/continuations**  
 Papers to read for this week:  
-+ Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
++ Reasoning about Programs in Continuation Passing Style:   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress: Page 1 -- 4
 Notes:
 
 
 Papers that will follow later in this series:
-+ The Essence of Compiling with Continuations https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
-+ Compiling with Continuations, Continued https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf
-+ Compiling without Continuations https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf
++ The Essence of Compiling with Continuations   https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
++ Compiling with Continuations, Continued   https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf
++ Compiling without Continuations   https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf
 
 ### Oct 1
 
 Topic: **ANF/continuations** (Continued)  
 Papers:
-+ Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
++ Reasoning about Programs in Continuation Passing Style:   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress: Page 5 -- 6  
 Notes:
@@ -78,7 +79,7 @@ Notes:
 
 Topic: **ANF/continuations** (Continued Continued)  
 Papers:
-+ Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
++ Reasoning about Programs in Continuation Passing Style:   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress:  
 Notes:
