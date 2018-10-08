@@ -56,7 +56,8 @@ The following is *optional*:
 
 Topic: **ANF/continuations**  
 Papers to read for this week:  
-+ Reasoning about Programs in Continuation Passing Style:   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
++ Reasoning about Programs in Continuation Passing Style:  
+  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress: Page 1 -- 4
 Notes:
@@ -74,7 +75,8 @@ Papers that will follow later in this series:
 
 Topic: **ANF/continuations** (Continued)  
 Papers:
-+ Reasoning about Programs in Continuation Passing Style:   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
++ Reasoning about Programs in Continuation Passing Style:  
+ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress: Page 5 -- 6  
 Notes:
@@ -84,7 +86,8 @@ Notes:
 
 Topic: **ANF/continuations** (Continued Continued)  
 Papers:
-+ Reasoning about Programs in Continuation Passing Style:   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
++ Reasoning about Programs in Continuation Passing Style:  
+ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress:  
 Notes:
