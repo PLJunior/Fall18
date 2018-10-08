@@ -87,7 +87,7 @@ Notes:
 
 Lead:
 Topic:  
-Papers:
+Papers:  
 +  
 
 Progress:  
@@ -97,7 +97,7 @@ Notes:
 
 Lead:
 Topic:  
-Papers:
+Papers:  
 +  
 
 Progress:  
@@ -107,7 +107,7 @@ Notes:
 
 Lead:  
 Topic:   
-Papers:  
+Papers:    
 +  
 
 Progress:  
