@@ -44,7 +44,8 @@ The following is *optional*:
 + Papers to read:
   - Gordon Plotkin. Call-by-name, call-by-value, and the λ-calculus. Theoretical Computer Science: 1975  
    http://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf
-    + Ben Greenman's summary of this paper:   http://www.ccs.neu.edu/home/types/resources/notes/call-by-name-call-by-value/extended-intro.pdf
+    + Ben Greenman's summary of this paper:  
+     http://www.ccs.neu.edu/home/types/resources/notes/call-by-name-call-by-value/extended-intro.pdf
 
 + A bunch of resources on good pedagogical presentations of CPS:   http://lists.seas.upenn.edu/pipermail/types-list/2018/002000.html
 
