@@ -47,7 +47,8 @@ The following is *optional*:
     + Ben Greenman's summary of this paper:  
      http://www.ccs.neu.edu/home/types/resources/notes/call-by-name-call-by-value/extended-intro.pdf
 
-+ A bunch of resources on good pedagogical presentations of CPS:   http://lists.seas.upenn.edu/pipermail/types-list/2018/002000.html
++ A bunch of resources on good pedagogical presentations of CPS:  
+ http://lists.seas.upenn.edu/pipermail/types-list/2018/002000.html
 
 + Essentials of Programming Languages, Chapter 6
 
