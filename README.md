@@ -66,7 +66,7 @@ Papers that will follow later in this series:
 
 ### Oct 1
 
-Topic: **ANF/continuations** (Continued)
+Topic: **ANF/continuations** (Continued)  
 Papers:
 + Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
@@ -76,7 +76,7 @@ Notes:
 
 ### Oct 8 (Columbus Day)
 
-Topic: **ANF/continuations** (Continued Continued)
+Topic: **ANF/continuations** (Continued Continued)  
 Papers:
 + Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
