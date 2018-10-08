@@ -51,9 +51,12 @@ The following is *optional*:
 
 ### Sept 24 (ICFP week)
 
-Topic: **ANF/continuations** (Michael to confirm)  
+Topic: **ANF/continuations**
 Papers to read for this week:  
 + Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
+
+Progress: Page 1 -- 4
+
 
 Papers that will follow later in this series:
 + The Essence of Compiling with Continuations https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
@@ -62,7 +65,21 @@ Papers that will follow later in this series:
 
 ### Oct 1
 
+Topic: **ANF/continuations** (Continued)
+Papers:
++ Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
+
+Progress: Page 5 -- 6
+
+
 ### Oct 8 (Columbus Day)
+
+Topic: **ANF/continuations** (Continued Continued)
+Papers:
++ Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
+
+Progress:
+
 
 ### Oct 15
 
