@@ -70,7 +70,7 @@ Topic: **ANF/continuations** (Continued)
 Papers:
 + Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
-Progress: Page 5 -- 6
+Progress: Page 5 -- 6  
 Notes:
 
 
