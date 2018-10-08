@@ -63,9 +63,12 @@ Notes:
 
 
 Papers that will follow later in this series:
-+ The Essence of Compiling with Continuations   https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
-+ Compiling with Continuations, Continued   https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf
-+ Compiling without Continuations   https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf
++ The Essence of Compiling with Continuations  
+  https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
++ Compiling with Continuations, Continued  
+ https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf
++ Compiling without Continuations  
+ https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf
 
 ### Oct 1
 
