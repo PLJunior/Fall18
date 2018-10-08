@@ -63,6 +63,8 @@ Progress: Page 1 -- 4
 Notes:
 
 
+We read pages 1-4.
+
 Papers that will follow later in this series:
 + The Essence of Compiling with Continuations  
   https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
@@ -72,6 +74,9 @@ Papers that will follow later in this series:
  https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf
 
 ### Oct 1
++ Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
+
+Picking up on page 5
 
 Topic: **ANF/continuations** (Continued)  
 Papers:
