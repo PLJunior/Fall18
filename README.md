@@ -56,6 +56,7 @@ Papers to read for this week:
 + Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress: Page 1 -- 4
+Notes:
 
 
 Papers that will follow later in this series:
@@ -70,6 +71,7 @@ Papers:
 + Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress: Page 5 -- 6
+Notes:
 
 
 ### Oct 8 (Columbus Day)
@@ -79,13 +81,38 @@ Papers:
 + Reasoning about Programs in Continuation Passing Style: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress:
-
+Notes:
 
 ### Oct 15
 
+Lead:
+Topic:  
+Papers:
++  
+
+Progress:
+Notes:
+
 ### Oct 22
 
+Lead:
+Topic:  
+Papers:
++  
+
+Progress:
+Notes:
+
 ### Oct 29
+
+Lead:  
+Topic:  
+Papers:
++  
+
+Progress:
+Notes:
+
 
 ### Nov 5 (SPLASH week)
 
