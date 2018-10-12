@@ -99,7 +99,7 @@ Notes: https://github.com/PLJunior/Fall18/blob/master/notes-10-08.pdf
 
 
 
-### Oct 15
+### Oct 16 (Tuesday)
 
 Topic: **ANF/continuations** (Continued Continued Continued)  
 Papers:  
@@ -108,7 +108,7 @@ Papers:
 
 Homework Reading: Section 5 (Skipping proofs as needed)  
 Progress:  
-Notes:
+Notes:  
 
 ### Oct 22
 
