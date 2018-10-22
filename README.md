@@ -101,26 +101,15 @@ Notes: https://github.com/PLJunior/Fall18/blob/master/notes-10-08.pdf
 
 ### Oct 16 (Tuesday)
 
-Topic: **ANF/continuations** (Continued Continued Continued)  
+Topic: **ANF/continuations**  
 Papers:  
 + Reasoning about Programs in Continuation Passing Style:  
  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
-Homework Reading: Section 5 (Skipping proofs as needed)  
-Progress:  
+Progress: -- Page 11 (Before the definition of 'size')  
 Notes:  
 
 ### Oct 22
-
-Lead:
-Topic:  
-Papers:  
-+  
-
-Progress:  
-Notes:
-
-### Oct 29
 
 Lead:  
 Topic:   
