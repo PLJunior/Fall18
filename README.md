@@ -115,7 +115,7 @@ Topic: Same
 Papers: Same  
 Progress: Finished section 5  
 Homework reading: Section 6 of conference paper version:  
-https://dl.acm.org/ft_gateway.cfm?id=141563&ftid=47370&dwn=1&CFID=24434352&CFTOKEN=f0dee3e504fe44d3-2628B389-D1F2-D7DD-ACB083A2848DA5D6  
++ https://dl.acm.org/ft_gateway.cfm?id=141563&ftid=47370&dwn=1&CFID=24434352&CFTOKEN=f0dee3e504fe44d3-2628B389-D1F2-D7DD-ACB083A2848DA5D6  
 Notes:  
 
 
