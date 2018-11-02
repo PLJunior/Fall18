@@ -121,16 +121,25 @@ Notes:
 
 ### Oct 22
 
-Topic:   
-Papers:    
-+  
+Topic: Same
+Papers: Same
 
-Progress:
+
+Progress: Finished section 6  
+Homework reading: Section 7 and 8  
 Notes:
 
 
+### Nov 2 (Replacing next week's meeting)
 
-### Nov 5 (SPLASH week)
+Topic: Same  
+Papers: Same  
+
+Progress:  
+
+
+
+### Nov 5 (SPLASH week) *Canceled*
 
 ### Nov 12 (Veteran's Day?)
 
