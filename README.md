@@ -121,7 +121,7 @@ Notes:
 
 ### Oct 22
 
-Topic: Same
+Topic: Same  
 Papers: Same
 
 
