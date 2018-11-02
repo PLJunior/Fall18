@@ -132,6 +132,8 @@ Notes:
 
 ### Nov 2 (Replacing next week's meeting)
 
+New time and location: 5 pm in 366  
+
 Topic: Same  
 Papers: Same  
 
