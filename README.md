@@ -60,7 +60,7 @@ Papers to read for this week:
   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress: Page 1 -- 4
-Notes:
+
 
 
 We read pages 1-4.
@@ -84,7 +84,7 @@ Papers:
  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress: Page 5  
-Notes:
+
 
 
 ### Oct 8 (Columbus Day)
@@ -107,7 +107,7 @@ Papers:
  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.7234&rep=rep1&type=pdf
 
 Progress: -- Page 11 (Before the definition of 'size')  
-Notes:  
+
 
 ### Oct 22
 
@@ -116,7 +116,7 @@ Papers: Same
 Progress: Finished section 5  
 Homework reading: Section 6 of conference paper version:  
 + https://dl.acm.org/ft_gateway.cfm?id=141563&ftid=47370&dwn=1&CFID=24434352&CFTOKEN=f0dee3e504fe44d3-2628B389-D1F2-D7DD-ACB083A2848DA5D6  
-Notes:  
+
 
 
 ### Oct 22
@@ -138,6 +138,7 @@ Topic: Same
 Papers: Same  
 
 Progress:  
+Notes:  
 
 
 
