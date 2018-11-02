@@ -136,7 +136,7 @@ Homework reading: Section 7 and 8
 Topic: Same  
 Papers: Same  
 
-Progress: Finished paper
+Progress: Finished paper  
 What to next: We discussed what to do next. There were three options:  
 1. more CPS
 2. monad
