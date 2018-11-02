@@ -127,7 +127,6 @@ Papers: Same
 
 Progress: Finished section 6  
 Homework reading: Section 7 and 8  
-Notes:
 
 
 ### Nov 2 (Replacing next week's meeting)
@@ -137,8 +136,15 @@ Notes:
 Topic: Same  
 Papers: Same  
 
-Progress:  
-Notes:  
+Progress: Finished paper
+What to next: We discussed what to do next. There were three options:  
+1. more CPS
+2. monad
+3. algebraic effects  
+We voted for learning monad from Wadler's paper:  
+(...link to be appear...)  
+
+
 
 
 
